@@ -4,7 +4,7 @@ let index = 0
 
 function init(e) {
   // Write your JavaScript code inside the init() function
-  let select = document.body.addEventListener('keydown')
+  
 
 
 }
